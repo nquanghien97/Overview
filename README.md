@@ -1,6 +1,6 @@
 # Hey There! 👋
 ### I'm NGUYEN QUANG HIEN - I'm a fullstack developer. I'm interested in development.
-<p align="center>
+<p align="center">
   <a href="https://www.linkedin.com/in/nquanghien97/" target="_blank">
     <img align="center" src="icons/linkedInIcon.svg" alt="linkedIn" height="30" width="40" />
   </a>
